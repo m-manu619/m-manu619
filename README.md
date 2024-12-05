@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves build
 
 ## 🌟 **About Me**  
 
-- 🔥 **Languages I Speak:** Java, Python, and SQL.  
 - 🚀 **Technologies I Love:** AWS, Spring Boot, Docker, and CI/CD.  
 - 💡 **Passions:** Solving challenging problems and crafting user-centric solutions.  
 - 🤝 **Team Player:** Committed to collaboration and constant learning.  
