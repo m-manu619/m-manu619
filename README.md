@@ -1,71 +1,70 @@
-# Hi there! 👋 I'm Manohar H  
+# Hi, I'm Manohar H 👋
 
-🎯 **Software Engineer | Cloud Enthusiast | Problem-Solver**  
-🌍 Based in **Hassan, India**  
-
-Welcome to my GitHub profile! I'm a passionate software engineer who loves building scalable, efficient solutions and working with cutting-edge technologies. My expertise lies in leveraging cloud platforms, modern DevOps practices, and clean code to deliver robust applications.  
+Full-Stack Developer | DevOps & Cloud Enthusiast | Building real-world applications with Java, Python, and JavaScript
 
 ---
 
-## 🌟 **About Me**  
+## About Me
 
-- 🚀 **Technologies I Love:** AWS, Spring Boot, Docker, and CI/CD.  
-- 💡 **Passions:** Solving challenging problems and crafting user-centric solutions.  
-- 🤝 **Team Player:** Committed to collaboration and constant learning.  
-
----
-
-## 🛠️ **Technical Expertise**  
-
-- **Programming:** Java, Python  
-- **Frameworks & Tools:** Spring Boot, RESTful APIs, Terraform  
-- **Cloud Technologies:** AWS (IAM, EC2, S3, DynamoDB, CloudWatch)  
-- **DevOps:** Docker, Jenkins, GitHub, CI/CD pipelines  
-- **Databases:** PostgreSQL  
-- **Operating Systems:** Linux, Unix  
-- **Soft Skills:** Analytical Thinking, Teamwork, Communication  
+- 🔭 Currently building: IPL Auction Simulator & AI Resume Screening Tool
+- 🌱 Learning: Kubernetes, System Design, Advanced AWS
+- 💼 Skills: Full-Stack Dev, Cloud Infrastructure, CI/CD Pipelines
+- 📍 India
 
 ---
 
-## 💻 **Highlighted Projects**  
+## Tech Stack
 
-1. **[Cloud File Management System](https://github.com/m-manu619/Cloud_File_Management_System)**  
-   A user-friendly platform for managing files on the cloud, focusing on seamless functionality and performance.  
+**Languages**
 
-2. **[Flask App CI/CD Pipeline on AWS](https://github.com/m-manu619/Flask-App-CI-CD-Pipeline-on-AWS-using-CodePipeline-ECS-and-Docker)**  
-   Automated pipelines with AWS CodePipeline and ECS to simplify Flask app deployments.  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-3. **[Terraform AWS Project](https://github.com/m-manu619/terraform-aws-project)**  
-   Leveraging Infrastructure as Code (IaC) to automate AWS resource provisioning for scalable solutions.  
+**Frontend**
 
-4. **[AI-Powered Resume Screening Tool](https://github.com/m-manu619/AI-Powered-Resume-Screening-and-Job-Matching-Tool)**  
-   A smart job-matching tool powered by AI, designed to streamline hiring processes.  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
----
+**Backend**
 
-## 🎓 **Education & Certifications**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-- **Bachelor of Engineering:** Computer Science and Engineering  
-  Malnad College of Engineering, Hassan, India 
+**Cloud & DevOps**
 
-- **Certifications:**  
-  - AWS Solution Architect and DevOps  
-  - Machine Learning Using Python  
-
----
-
-## 🌱 **What I’m Exploring**  
-
-- Mastering advanced cloud architectures and infrastructure automation.  
-- Deep-diving into AI and machine learning to build smarter applications.  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 ---
 
-## 📫 **Let’s Connect!**  
+## Featured Projects
 
-- 📧 Email: [mmanohar619@gmail.com](mailto:mmanohar619@gmail.com)  
-- 💼 LinkedIn: [Manohar H](https://www.linkedin.com/in/manohar-h)  
+| Project | Description | Stack |
+|---|---|---|
+| [IPL Auction Simulator](https://github.com/m-manu619/IPL_MOCK_AUCTION) | Full-stack real-time IPL mock auction platform with multiplayer support | Node.js, WebSocket, JS |
+| [IPL 2026 Simulator](https://m-manu619.github.io/ipl-2026-simulator/) | Single-file interactive season simulator with Monte Carlo engine | HTML, CSS, JS |
+| [AI Resume Screener](https://github.com/m-manu619/AI-Powered-Resume-Screening-and-Job-Matching-Tool) | NLP-powered resume screening with BERT match scoring | Python, FastAPI, React |
+| [VibeRent](https://github.com/m-manu619/viberent-booking-platform) | Full-stack property booking platform with role-based auth | Spring Boot, React, MySQL |
+| [Cloud File Manager](https://github.com/m-manu619/Cloud_File_Management_System) | File upload/download system using AWS S3 + DynamoDB | Spring Boot, AWS |
+| [Flask CI/CD on AWS](https://github.com/m-manu619/Flask-App-CI-CD-Pipeline-on-AWS-using-CodePipeline-ECS-and-Docker) | Automated pipeline: CodePipeline → ECR → ECS | Flask, Docker, AWS |
+| [Terraform AWS](https://github.com/m-manu619/terraform-aws-project) | IaC setup for EC2, RDS, S3, Route53 | Terraform, AWS |
 
 ---
 
-Thank you for visiting my profile! I’m always excited to collaborate on impactful projects. Feel free to explore my repositories and reach out to connect or share ideas. Let’s innovate together! 🚀  
+## GitHub Stats
+
+![Manohar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-manu619&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-manu619&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-manu619)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/m-manu619)
