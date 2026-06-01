@@ -59,8 +59,8 @@ Full-Stack Developer | DevOps & Cloud Enthusiast | Building real-world applicati
 
 ## GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-manu619&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/m-manu619)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-manu619&layout=compact&theme=dark&hide_border=true&count_private=true)](https://github.com/m-manu619)
+[![GitHub stats](https://github-readme-stats-eight-eta-39.vercel.app/api?username=m-manu619&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/m-manu619)
+[![Top Languages](https://github-readme-stats-eight-eta-39.vercel.app/api/top-langs/?username=m-manu619&layout=compact&theme=dark&hide_border=true&count_private=true)](https://github.com/m-manu619)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=m-manu619&theme=dark&hide_border=true)
 
